@@ -93,11 +93,11 @@ Go to http://localhost:3000 in your web browser to use the application.
 
 ### Screenshots
 
-[!Preview-1](/language-detection-frontend/assets/1.png)
+(/language-detection-frontend/assets/1.png)
 
-[!Preview-2](/language-detection-frontend/assets/2.png)
+(/language-detection-frontend/assets/2.png)
 
-[!Preview-3](/language-detection-frontend/assets/3.png)
+(/language-detection-frontend/assets/3.png)
 
 ### PowerPoint Presentation
 

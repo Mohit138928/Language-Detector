@@ -95,13 +95,13 @@ Go to http://localhost:3000 in your web browser to use the application.
 
 [![Preview 1](</language-detection-frontend/assets/1.png>)](/language-detection-frontend/assets/1.png)
 
-[![Preview 1](</language-detection-frontend/assets/2.png>)](/language-detection-frontend/assets/2.png)
+[![Preview 2](</language-detection-frontend/assets/2.png>)](/language-detection-frontend/assets/2.png)
 
-[![Preview 1](</language-detection-frontend/assets/3.png>)](/language-detection-frontend/assets/3.png)
+[![Preview 3](</language-detection-frontend/assets/3.png>)](/language-detection-frontend/assets/3.png)
 
 ### PowerPoint Presentation
 
-[![Preview 1](<>)](/language-detection-frontend/assets/Language%20Detection.pptx)
+[![Preview of PPT](</language-detection-frontend/assets/Language%20Detection.pptx>)](/language-detection-frontend/assets/Language%20Detection.pptx)
 
 ### Contributors
 

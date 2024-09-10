@@ -93,15 +93,15 @@ Go to http://localhost:3000 in your web browser to use the application.
 
 ### Screenshots
 
-[Preview 1](/language-detection-frontend/assets/1.png)
+[![Preview 1](</language-detection-frontend/assets/1.png>)](/language-detection-frontend/assets/1.png)
 
-[Preview 1](/language-detection-frontend/assets/2.png)
+[![Preview 1](</language-detection-frontend/assets/2.png>)](/language-detection-frontend/assets/2.png)
 
-[Preview 1](/language-detection-frontend/assets/3.png)
+[![Preview 1](</language-detection-frontend/assets/3.png>)](/language-detection-frontend/assets/3.png)
 
 ### PowerPoint Presentation
 
-[Language Detector](/language-detection-frontend/assets/Language%20Detection.pptx)
+[![Preview 1](<>)](/language-detection-frontend/assets/Language%20Detection.pptx)
 
 ### Contributors
 
